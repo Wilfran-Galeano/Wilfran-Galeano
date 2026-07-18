@@ -31,6 +31,11 @@ Alineado con mi enfoque académico y minimalista, estas son las tecnologías con
 
 ---
 
+<div align="center">
+  <img src="visual_grafica.png" alt="Simulación de Plasma Espacial y Física Teórica" width="600" />
+  <p><em>Simulación visual de la intensidad del plasma</em></p>
+</div>
+
 ### 🧮 Un toque de Física
 
 Actualmente fascinado por los principios que rigen los fluidos conductores y el plasma, como la ecuación fundamental de la **Magnetohidrodinámica (MHD)** para el equilibrio de confinamiento:
