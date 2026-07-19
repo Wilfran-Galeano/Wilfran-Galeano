@@ -15,7 +15,7 @@
 
 Soy un apasionado de la ciencia y el aprendizaje continuo. Actualmente utilizo **Python** como mi herramienta principal para modelar y resolver problemas complejos aplicados a la física. Mi meta a largo plazo es orientar mi trabajo de grado hacia el **confinamiento del plasma**, explorando la intersección entre la física teórica y la simulación computacional.
 
-* 🌌 **Áreas de interés:** Mecánica de Fluidos, Física Nuclear, Astrofísica y Fusión Nuclear (Confinamiento de Plasma).
+* 🌌 **Áreas de interés:** Mecánica de Fluidos, Astrofísica y Fusión Nuclear (Confinamiento de Plasma).
 * ✍️ **Proyecto actual:** Escribiendo y maquetando mi propio libro técnico de **LaTeX**.
 * 🚀 **Mi objetivo en GitHub:** Crear un espacio educativo y ordenado donde compartir mis scripts, herramientas y apuntes de física para que puedan servirle a otros estudiantes.
 
