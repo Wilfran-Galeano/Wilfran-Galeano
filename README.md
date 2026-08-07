@@ -42,7 +42,7 @@ Actualmente fascinado por los principios que rigen los fluidos conductores y el 
 
 $$ \mathbf{J} \times \mathbf{B} = \nabla p $$
 
-*Donde $$\mathbf{J}$$ es la densidad de corriente, $$\mathbf{B}$$ el campo magnético y $$p$$ la plasma presión.*
+*Donde $\mathbf{J}$ es la densidad de corriente, $\mathbf{B}$ el campo magnético y $p$ la plasma presión.*
 
 ---
 
